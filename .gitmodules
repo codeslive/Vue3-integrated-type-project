@@ -1,0 +1,6 @@
+[submodule "libcommon"]
+	path = libcommon
+	url = https://gitee.com/codeslive/libcommon.git
+[submodule "src/libcommon"]
+	path = src/libcommon
+	url = https://gitee.com/codeslive/libcommon.git
